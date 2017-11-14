@@ -52,7 +52,7 @@ gulp.task("watch-js", ["js"], function () {
 
 // Images task
 gulp.task("images", () => gulp
-    .src(source + "/img/**/*")
+    .src(source + "/img/**/*{gif,jpeg,jpg,png,svg}")
     .pipe(plugins.imagemin([
         plugins.imagemin.gifsicle({interlaced: true}),
         plugins.imagemin.jpegtran({progressive: true}),
