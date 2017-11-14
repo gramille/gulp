@@ -1,0 +1,22 @@
+{
+  "name": "camille",
+  "version": "1.0.0",
+  "description": "task manager",
+  "main": "gulpfile.js",
+  "author": "camille",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "latest",
+    "gulp-cssbeautify": "latest",
+    "gulp-csscomb": "latest",
+    "gulp-cssimport": "^6.0.0",
+    "gulp-csso": "latest",
+    "gulp-imagemin": "^3.4.0",
+    "gulp-load-plugins": "latest",
+    "gulp-minify": "^2.1.0",
+    "gulp-notify": "^3.0.0",
+    "gulp-rename": "latest",
+    "gulp-sass": "latest"
+  }
+}
