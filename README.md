@@ -1,6 +1,5 @@
-# Gulp
+# [GULP](https://gulpjs.com/)
 ## Exemple de configuration Gulp
-### [GULP](https://gulpjs.com/)
 ### Pré-requis de Gulp
 * [node.js](https://nodejs.org/en/)
 ### Installer Gulp
